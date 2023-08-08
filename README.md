@@ -14,5 +14,3 @@
 💬 Connect with me on Discord: [Join my server](https://discord.gg/FY2A87EK7k)
 
 Passionate about crafting elegant solutions, securing the digital realm, and contributing to open-source projects. I enjoy exploring the depths of code and turning ideas into reality. Let's connect and collaborate on exciting projects!
-
-![MikaelSubhi](https://github.com/Wickdev077/Wick-Dev/assets/53820568/ddc84d84-5e39-461f-9ab3-32efc722e742)
