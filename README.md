@@ -4,13 +4,7 @@
 
 🎓 Graduate of Istanbul University | ✨ 24 years old
 
-🔧 **Languages:** 
-   - C#️⃣
-   - C++️⃣
-   - JavaScript️⃣
-   - Python️⃣
-   - HTML️⃣
-   - CSS️⃣
+🔧 Languages: C# | C++ | JavaScript | Python | HTML
      
 🌍 Fluent in Arabic, English, and Turkish
 
