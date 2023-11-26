@@ -19,10 +19,10 @@
 
 # My Social Media
 
-[Instagram](https://www.instagram.com/mik__subhi) | [Youtube](https://www.youtube.com/channel/UCJzH5Ua9rWW-uUYzWh-jjQg) | [Facebook](https://www.facebook.com/Mik.subhi) | [X](https://twitter.com/WickJ007) | [Spotify](https://open.spotify.com/user/u649qsqyj5lebvo763ai6z56t) | [Github](https://github.com/Wickdev077) | [Twitch](https://www.twitch.tv/mik_subhi)
+[Instagram](https://www.instagram.com/mik__subhi) | [Youtube](https://www.youtube.com/channel/UCJzH5Ua9rWW-uUYzWh-jjQg) | [Facebook](https://www.facebook.com/Mik.subhi) | [X](https://twitter.com/WickJ007) | [Spotify](https://open.spotify.com/user/u649qsqyj5lebvo763ai6z56t) | [Github](https://github.com/wickstudio) | [Twitch](https://www.twitch.tv/mik_subhi)
 
-![Wick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wickdev077&show_icons=true&theme=transparent)
+![Wick's GitHub stats](https://github-readme-stats.vercel.app/api?username=wickstudio&show_icons=true&theme=transparent)
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Wickdev077&layout=donut)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=wickstudio&layout=donut)
 
 ![Wick](https://media.discordapp.net/attachments/875162620502626387/1178293230228471878/Screenshot_22.png?ex=65759e15&is=65632915&hm=c68adcd5bd79e594314e734436380013b7dea377861190a95ce1462f9746824c&=&format=webp&width=1440&height=498)
