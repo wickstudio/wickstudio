@@ -25,4 +25,4 @@
 
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Wickdev077&layout=donut)
 
-![Wick]([https://media.discordapp.net/attachments/1066439278932009021/1160217100388929636/New_Project_-_2023-10-04T194651.988-fotor-2023100717817.png?ex=6533db60&is=65216660&hm=ba0ec9bba57b11452679cc32e9f13a2af4e48e299696ecb5d77496b3d3067108&=&width=1285&height=675](https://media.discordapp.net/attachments/875162620502626387/1178293230228471878/Screenshot_22.png?ex=65759e15&is=65632915&hm=c68adcd5bd79e594314e734436380013b7dea377861190a95ce1462f9746824c&=&format=webp&width=1440&height=498)https://media.discordapp.net/attachments/875162620502626387/1178293230228471878/Screenshot_22.png?ex=65759e15&is=65632915&hm=c68adcd5bd79e594314e734436380013b7dea377861190a95ce1462f9746824c&=&format=webp&width=1440&height=498)
+![Wick](https://media.discordapp.net/attachments/875162620502626387/1178293230228471878/Screenshot_22.png?ex=65759e15&is=65632915&hm=c68adcd5bd79e594314e734436380013b7dea377861190a95ce1462f9746824c&=&format=webp&width=1440&height=498)
