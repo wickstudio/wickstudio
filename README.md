@@ -13,7 +13,7 @@
 📚 Editor | 📜 Scripter | 💻 Error Solver | 📷 Photoshopper | 🎮 Gamer
 
 🌐 Website: [wickdev.xyz](https://wickdev.xyz/)
-💬 Connect with me on Discord: [Join my server](https://discord.gg/nAeWUVu3tK)
+💬 Connect with me on Discord: [Join my server](https://discord.gg/wicks)
 
 **I'm dedicated to crafting innovative solutions, securing the digital realm, and actively contributing to open-source projects. I'm passionate about diving deep into code and bringing creative ideas to life. Let's connect and collaborate on exciting projects!**
 
