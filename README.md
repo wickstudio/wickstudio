@@ -6,7 +6,7 @@
 
 # 🔧 Languages
 
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,html,css,ts)](https://wickdev.xyz/)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,python,html,css,ts,js)](https://wickdev.xyz/)
 
 🌍 I Speak Arabic, English, and Turkish
 
