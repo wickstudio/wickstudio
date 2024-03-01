@@ -25,4 +25,4 @@
 
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=wickstudio&layout=donut)
 
-![Wick]([https://media.discordapp.net/attachments/1189179270342381568/1189179884942147656/Server_Banner.jpg?ex=659d3912&is=658ac412&hm=14a9e9e0b365d07c535a4472b46a60a97fc1023f698607aa8f231e673a955118&=&format=webp&width=1200&height=675](https://media.discordapp.net/attachments/1189179270342381568/1189179884942147656/Server_Banner.jpg?ex=65f04792&is=65ddd292&hm=ef759326b0c37f29376cce504fd4e4bab298045419936d121bc65d5a79d3b9dc&=&format=webp&width=1186&height=667)https://media.discordapp.net/attachments/1189179270342381568/1189179884942147656/Server_Banner.jpg?ex=65f04792&is=65ddd292&hm=ef759326b0c37f29376cce504fd4e4bab298045419936d121bc65d5a79d3b9dc&=&format=webp&width=1186&height=667)
+![Wick]([https://media.discordapp.net/attachments/875162620502626387/1213097595715461120/Server_Banner.jpg?ex=65f43c2d&is=65e1c72d&hm=160dcbff877d8acf56d9abc619d514aa4b0cd3d8b553b9372f9d78cc06cf3c0d&=&format=webp&width=1186&height=667)
