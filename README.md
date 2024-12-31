@@ -1,6 +1,6 @@
 <!-- Banner Section with Animated GIF -->
 <p align="center">
-  <img src="https://imgur.com/khpDPwR.png" alt="Welcome to my GitHub!" style="width: 100%; max-width: 800px; border-radius: 10px;" />
+  <img src="https://media.wickdev.me/dgyaMlYuzi.jpg" alt="Welcome to my GitHub!" style="width: 100%; max-width: 800px; border-radius: 10px;" />
 </p>
 
 <!-- Introduction -->
